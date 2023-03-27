@@ -1,0 +1,15 @@
+D:\c-BasicLearningDemo\Demo1\bin\Debug\net6.0\Demo1.exe
+D:\c-BasicLearningDemo\Demo1\bin\Debug\net6.0\Demo1.deps.json
+D:\c-BasicLearningDemo\Demo1\bin\Debug\net6.0\Demo1.runtimeconfig.json
+D:\c-BasicLearningDemo\Demo1\bin\Debug\net6.0\Demo1.dll
+D:\c-BasicLearningDemo\Demo1\bin\Debug\net6.0\Demo1.pdb
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.csproj.AssemblyReference.cache
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfoInputs.cache
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.AssemblyInfo.cs
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.csproj.CoreCompileInputs.cache
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.dll
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\refint\Demo1.dll
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.pdb
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\Demo1.genruntimeconfig.cache
+D:\c-BasicLearningDemo\Demo1\obj\Debug\net6.0\ref\Demo1.dll
