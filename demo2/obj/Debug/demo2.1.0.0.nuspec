@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>demo2</id>
+    <version>1.0.0</version>
+    <authors>demo2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\c-BasicLearningDemo\demo2\bin\Debug\net6.0\demo2.runtimeconfig.json" target="lib\net6.0\demo2.runtimeconfig.json" />
+    <file src="D:\c-BasicLearningDemo\demo2\bin\Debug\net6.0\demo2.dll" target="lib\net6.0\demo2.dll" />
+  </files>
+</package>
